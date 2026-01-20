@@ -1,0 +1,12 @@
+# macOS noise
+.DS_Store
+._*
+
+# ArchR / analysis outputs (adjust to your preference)
+ArchRLogs/
+QualityControl/
+ATAC/Results/
+ATAC/input_data/input_data/FragmentFiles
+ATAC/input_data/input_data/ArrowFiles
+RNA/Results/
+RNA/input_data/RNA_count_matrix
