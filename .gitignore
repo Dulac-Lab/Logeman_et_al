@@ -4,9 +4,9 @@
 
 # ArchR / analysis outputs (adjust to your preference)
 ArchRLogs/
-QualityControl/
 ATAC/Results/
 ATAC/input_data/FragmentFiles/
-ATAC/input_data/ArrowFiles/
 RNA/Results/
 RNA/input_data/RNA_count_matrix/
+RNA/input_data/Moffitt_and_Bambah-Mukku_et_al_merfish_all_cells.csv
+RNA/input_data/Moffitt_and_Bambah-Mukku_et_al_merfish_all_cells.csv
