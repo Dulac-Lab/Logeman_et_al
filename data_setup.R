@@ -134,7 +134,7 @@ MERFISH <- CreateSeuratObject(
 MERFISH <- subset(MERFISH, subset = Neuron_cluster_ID %in% unique(combined_RNA@meta.data$Cluster))
 
 # Save RDS
-saveRDS(combined_RNA, "RNA/Results/all_clusters/MERFISH.rds")
+saveRDS(MERFISH, "RNA/Results/all_clusters/MERFISH.rds")
 
 #####################################################
 #####################################################
